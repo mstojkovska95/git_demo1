@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSelling.Api", "TicketSelling.Api\TicketSelling.Api.csproj", "{04E685FC-35E4-4574-B8D5-575A9A3834B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSelling.Core", "TicketSelling.Core\TicketSelling.Core.csproj", "{BAED12B1-6F78-4E9A-81CB-03973AE95C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E685FC-35E4-4574-B8D5-575A9A3834B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E685FC-35E4-4574-B8D5-575A9A3834B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E685FC-35E4-4574-B8D5-575A9A3834B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E685FC-35E4-4574-B8D5-575A9A3834B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAED12B1-6F78-4E9A-81CB-03973AE95C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAED12B1-6F78-4E9A-81CB-03973AE95C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAED12B1-6F78-4E9A-81CB-03973AE95C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAED12B1-6F78-4E9A-81CB-03973AE95C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {958AC5E5-85B0-40AA-A3AA-EF6B7D68D640}
+	EndGlobalSection
+EndGlobal
